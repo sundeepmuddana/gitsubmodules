@@ -20,3 +20,12 @@ mkdir submodule
 cd submodule
 git init: this will Initialized empty Git repository into submodule
 ]
+step 4:
+repeat step 2
+
+step 5:
+now check in submodules into git repo
+command
+[
+git submodule add ./Submodule
+]
