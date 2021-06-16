@@ -11,3 +11,12 @@ git commit -m "added my my files": this will comit our changes
 git push: this will push our changes to git repo
 
 ]
+
+step 3:
+add new directory name it submodule
+commands
+[
+mkdir submodule
+cd submodule
+git init: this will Initialized empty Git repository into submodule
+]
